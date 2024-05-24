@@ -6,9 +6,9 @@ Gameplay:
 You have 60 seconds to collect all the orange items you can get!
 
 Controls:
-A - Left
-D - Right
-W - Jump
+A - Left,
+D - Right,
+W - Jump,
 
 Have fun!
 
